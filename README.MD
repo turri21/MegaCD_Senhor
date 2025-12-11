@@ -1,3 +1,8 @@
+-=(MegaCD_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 # [Sega MegaCD](https://en.wikipedia.org/wiki/Sega_CD) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 # Installation
